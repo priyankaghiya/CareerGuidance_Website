@@ -1,0 +1,55 @@
+   
+html{
+    background-size: cover;
+     background-blend-mode: lighten;
+    z-index: -1;
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("../images/home-banner.jpg") no-repeat center fixed;
+    }
+  
+    .head{
+        background-color: violet;
+        }
+        
+    h1{
+        font-family:verdana;
+         font-size:3vw;
+          text-align: center;
+          font-family: 'Ma Shan Zheng', cursive;
+    }
+    pre{
+        background-color:lightslategray;
+        color:lawngreen;
+        font-size:1.4vw;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    padding:15px 5px 15px 5px;
+}
+
+
+    
+   @media screen and(max-width:1060px)
+    {
+        pre{
+            width:100%;
+        }
+        html{
+            width:100%;
+        }
+        table{
+            width:100%;
+        }
+        .images{
+            width:100%;
+        }
+    }
+  
+    .images{
+        margin-top: 10px;
+        margin-left: 50px;
+        margin-right: 20px;
+        padding: 5px 5px;
+        width: 400px;
+        align-self: center;
+        
+      }
+      
