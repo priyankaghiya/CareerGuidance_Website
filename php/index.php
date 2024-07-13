@@ -7,6 +7,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
+    <!-- To Display Header on the Home Page -->
     <?php include("header.php"); ?>
       <center>
         <table class="images">
