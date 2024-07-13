@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
     <head>
         <title>DETAILS</title>
         <link rel="stylesheet" type="text/css" href="../css/index1.css">
@@ -6,25 +6,23 @@
     <body>
 <?php include("header.php"); ?>
         <div class="head">
-<h1>AERONAUTICAL ENGINEERING</h1>
+            <h1>AERONAUTICAL ENGINEERING</h1>
         </div>
-<center>
-        <div class="AAA">
-            <pre>
-    Aeronautical Engineering is the science associated with the study, design, and production of
-flight-capable machinery or aircraft operating techniques. It is the study of the design and operations
-of an aircraft that involves practical and theoretical understanding of materials, assembling parts, 
-testing, and maintenance of aircraft. An Aeronautical Engineer's primary job is to design aircraft 
-and thrust systems, but there can be more responsibilities added to the profile with time. 
-An Aeronautical Engineer may get opportunities in the Aviation industry, defence, and civil aviation 
-department. The job may bring lucrative packages, but it also might be a very responsible 
-and demanding job. It is an important branch of engineering that has helped mankind to 
-master the world above the skies.
-            </pre>
-         </div>
-
-               <div class="AAA">
-            
+        <center>
+            <div class="AAA">
+                <pre>
+        Aeronautical Engineering is the science associated with the study, design, and production of
+    flight-capable machinery or aircraft operating techniques. It is the study of the design and operations
+    of an aircraft that involves practical and theoretical understanding of materials, assembling parts, 
+    testing, and maintenance of aircraft. An Aeronautical Engineer's primary job is to design aircraft 
+    and thrust systems, but there can be more responsibilities added to the profile with time. 
+    An Aeronautical Engineer may get opportunities in the Aviation industry, defence, and civil aviation 
+    department. The job may bring lucrative packages, but it also might be a very responsible 
+    and demanding job. It is an important branch of engineering that has helped mankind to 
+    master the world above the skies.
+                </pre>
+            </div>
+            <div class="AAA">
             <pre>
   Aerospace Engineering is a board branch of research that deals with the study of aircraft
 and spacecraft and their production. In India and a lot of other countries, it is still a 
@@ -45,15 +43,15 @@ reports from aircrew of any difficulties experienced during flights, and carry o
 corrections and also perform aircraft maintenance and overhaul in hangers and workshops when an 
 aircraft is due for regular inspection and checks.
             </pre>
-        </div>
-        <div class="AAA">
-            <button class="button b1">Eligibility</button><br>
-        <pre>
-      The basic eligibility for admission to a B.Tech. Aeronautical Engineering program is a pass in Higher Secondary 
-    or 10+2 examination in science stream.Eligibility for the program also depends upon the
-    performance in entrance tests such as JEE Main, JEE Advanced, SET, CUSAT,Gujcet etc. 
-        </pre>
-    </div>
+            </div>
+            <div class="AAA">
+                <button class="button b1">Eligibility</button><br>
+            <pre>
+        The basic eligibility for admission to a B.Tech. Aeronautical Engineering program is a pass in Higher Secondary 
+        or 10+2 examination in science stream.Eligibility for the program also depends upon the
+        performance in entrance tests such as JEE Main, JEE Advanced, SET, CUSAT,Gujcet etc. 
+            </pre>
+            </div>
             <div class="AAA">
                 <button class="button b1"> Admission</button><br>
             <pre>
@@ -64,17 +62,18 @@ merit-based direct admission to the program. The basic process of admission is e
            Counselling
            Admission
             </pre>
-        </div>
+            </div>
            
-    <div class="AAA">
-        <button class="button b1"> Career Scope</button><br>
-         <pre>
-   The average salary of an Aeronautical Engineer is Rs 6 lakh or more. With experience, the earning 
-grows manifold. It can go as high as Rs 45- 49 Lakh per annum.Engineers in governmental organizations,
-such as HAL, NAL, are paid official rates, while private-sector engineers are paid according to the 
-scales determined by the company management.
+            <div class="AAA">
+                <button class="button b1"> Career Scope</button><br>
+                <pre>
+        The average salary of an Aeronautical Engineer is Rs 6 lakh or more. With experience, the earning 
+        grows manifold. It can go as high as Rs 45- 49 Lakh per annum.Engineers in governmental organizations,
+        such as HAL, NAL, are paid official rates, while private-sector engineers are paid according to the 
+        scales determined by the company management.
 
- </pre>
-</center>
+                </pre>
+            </div>
+        </center>
     </body>
 </html>
