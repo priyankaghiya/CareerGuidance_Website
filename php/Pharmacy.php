@@ -7,7 +7,7 @@
     <body>
         <?php include("header.php"); ?><br>
             <div class="head">
-                h1>PHARMACY</h1>
+                <h1>PHARMACY</h1>
             </div>
             <div class="AAA">
                 <pre>
